@@ -1,0 +1,119 @@
+
+===== New Chat Started =====
+Shruti: help
+Bot: 
+Available Commands:
+� hello / hi
+� how are you
+� your name
+� time
+� date
+� what is ai
+� motivate me
+� calculator
+� good morning
+� good evening
+� bye
+
+Shruti: time
+Bot: Current time is 12:13:58
+Shruti: what is ai
+Bot: AI stands for Artificial Intelligence. It enables machines to think and solve problems.
+Shruti: date
+Bot: Today's date is 03-06-2026
+Shruti: good morning
+
+===== New Chat Started =====
+Shruti: help
+
+===== New Chat Started =====
+Shruti: help
+
+===== New Chat Started =====
+Shruti: help
+Bot: 
+Available Commands:
+• hello / hi
+• how are you
+• your name
+• time
+• date
+• what is ai
+• motivate me
+• calculator
+• good morning
+• good evening
+• bye
+
+Shruti: date
+Bot: Today's date is 03-06-2026
+Shruti: time
+Bot: Current time is 12:25:23
+Shruti: good morning
+Bot: Good Morning! Have a wonderful day ☀️
+Shruti: what is ai
+Bot: AI stands for Artificial Intelligence. It enables machines to think and solve problems.
+Shruti: how are you
+Bot: I am fine and ready to help you!
+Shruti: bye
+
+===== New Chat Started =====
+Shruti: help
+Bot: 
+Available Commands:
+• hello / hi
+• how are you
+• your name
+• time
+• date
+• what is ai
+• motivate me
+• calculator
+• good morning
+• good evening
+• bye
+
+Shruti: date
+Bot: Today's date is 03-06-2026
+Shruti: good morning
+Bot: Good Morning! Have a wonderful day ☀️
+
+===== New Chat Started =====
+Shruti: help
+Bot: 
+Available Commands:
+• hi / hello
+• how are you
+• your name
+• time
+• date
+• what is ai
+• motivate me
+• calculator
+• good morning
+• good evening
+• thank you
+• bye
+
+Shruti: hi
+Bot: Hello Shruti! How can I help you today? 😊
+Shruti: your name
+Bot: I'm an AI Chatbot created to help you.
+Shruti: time
+Bot: The current time is 09:29 PM
+Shruti: date
+Bot: Today's date is 06-06-2026
+Shruti: motivate me
+Bot: Keep learning and growing.
+Shruti: calculator
+Bot: The answer is 7.0
+Shruti: thankyou
+Bot: Sorry, I didn't understand that. Try typing 'help'.
+Shruti: thank you
+Bot: You're welcome! Happy to help 😊
+Shruti: bye
+Bot: Goodbye! Have a nice day 😊
+
+===== New Chat Started =====
+Shruti: bye
+Bot: Goodbye! Have a nice day 😊
